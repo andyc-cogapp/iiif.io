@@ -11,7 +11,7 @@ cssversion: 2
 This document is not subject to [semantic versioning][semver].
 Changes will be tracked within the document.
 
-_Copyright © 2012-2014 Editors and contributors. Published by the IIIF under the [CC-BY][cc-by] license._
+_Copyright © 2012-2015 Editors and contributors. Published by the IIIF Consortium under the [CC-BY][cc-by] license, see [disclaimer][disclaimer]._
 
 **Editors**
 

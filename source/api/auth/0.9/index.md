@@ -29,7 +29,7 @@ This is a work in progress. We are actively seeking implementations and feedback
   * Simeon Warner, _Cornell University_
   {: .names}
 
-_Copyright © 2012-2015 Editors and contributors. Published by the IIIF under the [CC-BY][cc-by] license._
+_Copyright © 2012-2015 Editors and contributors. Published by the IIIF Consortium under the [CC-BY][cc-by] license, see [disclaimer][disclaimer]._
 
 ----
 
@@ -469,5 +469,6 @@ Many thanks to the members of the [IIIF Community][iiif-community] for their con
 [prezi-api]: /api/presentation/
 [image-api]: /api/image/
 [ext-services]: /api/annex/services/
+[disclaimer]: /api/annex/notes/disclaimer.html
 
 {% include acronyms.md %}
